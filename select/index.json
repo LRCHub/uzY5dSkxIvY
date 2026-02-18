@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "synpasy",
+  "base_artist": "yosumi",
+  "createdAt": "2026-02-18T12:26:10.050957Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "synpasy",
+      "artist": "yosumi",
+      "has_synced": false,
+      "path": "select/pl_01_synpasy_yosumi.txt"
+    }
+  ]
+}
